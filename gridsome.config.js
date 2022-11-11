@@ -5,7 +5,7 @@ module.exports = {
   siteName: "Miguel Vázquez Carrero",
   siteUrl: `https://www.itsnwa.com`,
   host: "0.0.0.0",
-  titleTemplate: "",
+  titleTemplate: "%s - Rational Expectations and Fun",
   siteDescription: "Creative technologist",
   plugins: [
     {
